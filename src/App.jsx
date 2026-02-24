@@ -1,8 +1,8 @@
 import { Routes, Route, Navigate } from "react-router-dom";
-import Login from "./pages/Login";
-import List from "./pages/List";
-import Details from "./pages/Details";
-import PhotoResult from "./pages/PhotoResult";
+import Login from "./Pages/Login";
+import List from "./Pages/List";
+import Details from "./Pages/Details";
+import PhotoResult from "./Pages/PhotoResult";
 
 function App() {
   return (
