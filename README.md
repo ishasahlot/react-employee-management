@@ -21,13 +21,15 @@ A React-based Employee Management application featuring authentication, employee
 - JavaScript
 - CSS
 
-## Login Credentials
-
-Username: testuser  
-Password: Test123
-
 ## Setup
 
 ```bash
 npm install
 npm run dev
+
+Live Demo link :- https://react-employee-management-pied.vercel.app/
+
+## Login Credentials
+
+Username: testuser  
+Password: Test123
